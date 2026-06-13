@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NOW体育" group-title="体育频道|NOW TV",NOW体育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU$main
+#EXTINF:-1 tvg-name="NOW体育1" group-title="体育频道|NOW TV",NOW体育1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz$main
+#EXTINF:-1 tvg-name="NOW体育2" group-title="体育频道|NOW TV",NOW体育2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G$main
+#EXTINF:-1 tvg-name="NOW体育3" group-title="体育频道|NOW TV",NOW体育3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF$main
+#EXTINF:-1 tvg-name="NOW体育4" group-title="体育频道|NOW TV",NOW体育4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg$main
+#EXTINF:-1 tvg-name="NOW体育4K" group-title="体育频道|NOW TV",NOW体育4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY$main
+#EXTINF:-1 tvg-name="NOW体育5" group-title="体育频道|NOW TV",NOW体育5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg$main
+#EXTINF:-1 tvg-name="NOW体育6" group-title="体育频道|NOW TV",NOW体育6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3$main
+#EXTINF:-1 tvg-name="NOW体育7" group-title="体育频道|NOW TV",NOW体育7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7$main
