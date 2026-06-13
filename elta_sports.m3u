@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="爱尔达体育1台" group-title="体育频道|台湾体育",爱尔达体育1台
+http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 tvg-name="爱尔达体育2台" group-title="体育频道|台湾体育",爱尔达体育2台
+http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 tvg-name="爱尔达体育3台" group-title="体育频道|台湾体育",爱尔达体育3台
+http://198.16.64.10:8278/eltasport3_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="ELEVEN Sports 1" group-title="体育频道|台湾体育",ELEVEN Sports 1
+http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225
+#EXTINF:-1 tvg-name="ELEVEN Sports 2" group-title="体育频道|台湾体育",ELEVEN Sports 2
+http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225
+#EXTINF:-1 tvg-name="纬来体育台" group-title="体育频道|台湾体育",纬来体育台
+http://120.84.96.58:808/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="博斯魅力一台" group-title="体育频道|台湾体育",博斯魅力一台
+http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225
+#EXTINF:-1 tvg-name="博斯网球台" group-title="体育频道|台湾体育",博斯网球台
+http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225
+#EXTINF:-1 tvg-name="博斯高球Ⅱ" group-title="体育频道|台湾体育",博斯高球Ⅱ
+http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225
